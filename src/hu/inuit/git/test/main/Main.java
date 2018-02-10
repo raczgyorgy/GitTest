@@ -4,5 +4,6 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Run main");
 		System.out.println("Omega");
+		System.out.println("Speedmaster");
 	}
 }
