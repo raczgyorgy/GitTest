@@ -2,3 +2,4 @@
 GitTest
 
 pull test
+fetch test
